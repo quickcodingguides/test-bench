@@ -1,0 +1,59 @@
+$color_transparent: transparent;
+$color_white: white;
+$color_gray_very_light: #F8F8F8;
+$color_gray_light_mid: #E2E2E2;
+$color_gray_light: #C3C0C0;
+$color_gray_mid: #808080;
+$color_gray_dark: #282828;
+$color_gray_dark_mid: #1F2020;
+$color_gray_dark_high: #141515;
+$color_gray_dark_very: #101111;
+$color_black: black;
+$color_red_light: #FD0000;
+$color_red_mid: #AF0000;
+$color_red_mid_dark: #4B0000;
+$color_red_dark: #3F0000;
+$color_green_light: #008000;
+$color_green_dark: #005600;
+$color_orange_light: #FFA500;
+$color_orange_dark: #C98200;
+$color_blue_light_very: #7FDBFF;
+$color_blue_light: #1E90FF;
+$color_blue_mid: #0E5AA3;
+$color_blue_dark: #14568F;
+$color_blue_dark_high: #0F487A;
+$color_blue_dark_very: #001F3F;
+$color_blue_dark_extra: #001224;
+$color_cyan_background: #c5e9ae;
+$color_cyan: rgba(0, 132, 229, 0.9);
+$color_cyan-shadow: darken($color_cyan, 30%);
+$color_spin_pulse: rgba(0, 61, 76, 0.9);
+// Alerts
+$color_alert_success_bg: rgba(0, 128, 0, 0.15);
+$color_alert_warning_bg: rgba(255, 212, 0, 0.25);
+$color_alert_error_bg: rgba(253, 0, 0, 0.2);
+$color_alert_danger_bg: rgba(75, 0, 0, 0.5);
+$color_alert_info_bg: rgba(127, 219, 255, 0.3);
+$color_alert_success_tt: #005600;
+$color_alert_warning_tt: #C98200;
+$color_alert_error_tt: #FD0000;
+$color_alert_danger_tt: #4B0000;
+$color_alert_info_tt: #1E90FF;
+// <section>
+//     <h2 class="h2">Alerts:</h2>
+//     <div class="alerts alert_success">
+//         <p><span>Success:</span> This alert shows that something was successful.</p>
+//     </div>
+//     <div class="alerts alert_warning">
+//         <p><span>Warning:</span> This alert shows that something needs immediate attention.</p>
+//     </div>
+//     <div class="alerts alert_error">
+//         <p><span>Error &#38; Failure:</span> This alert shows that something has failed.</p>
+//     </div>
+//     <div class="alerts alert_danger">
+//         <p><span>Danger:</span> This alert shows that damage is imminent.</p>
+//     </div>
+//     <div class="alerts alert_info">
+//         <p><span>Info:</span> This alert shows that there is some information.</p>
+//     </div>
+// </section>
